@@ -1,4 +1,4 @@
-<a align="left" href="https://github.com/Openscapes/2022-noaa-nwfsc-summer/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
+<a align="left" href="https://github.com/Openscapes/2022-noaa-sefsc-summer/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
 # 2022 NOAA SEFSC Openscapes Champions Cohort (Fall)
 
