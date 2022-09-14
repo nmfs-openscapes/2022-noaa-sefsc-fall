@@ -29,7 +29,9 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 
 ## Coworking times (optional)
 
-Julie, Stefanie, Ady, Molly - TBD
+Within-cohort coworking with Julie, Stefanie, Ady and Molly - Tuesdays 10:00 - 11:00 PT every second week: Oct 11, 25, Nov 8, 22
+
+Cross-cohort themed coworking with Julie, Stefanie and guests - Tuesdays 1:00 - 2:30 PT every second week: Oct 11, 25, Nov 8
 
 
 ## Participating teams
