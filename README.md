@@ -2,7 +2,7 @@
 
 # 2022 NOAA SEFSC Openscapes Champions Cohort (Fall)
 
-Welcome to the 2022 NOAA SEFSC Fall Openscapes Champions Cohort! This is a Cohort for the National Oceanic and Atmospheric Administration's Southeast Fisheries Science Center. Learn more about Openscapes and NOAA Fisheries: <https://openscapes.org>, <https://nmfs-openscapes.github.io>
+Welcome to the 2022 NOAA SEFSC Fall Openscapes Champions Cohort! This is a Cohort for the National Oceanic and Atmospheric Administration's Southeast Fisheries Science Center. It is one of four NOAA Fisheries Cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Science Centers along with the West Coast Regional Office and Office of Science and Technology. These build from six prior NOAA Fisheries Cohorts. Learn more about Openscapes and NOAA Fisheries: <https://openscapes.org>, <https://nmfs-openscapes.github.io>
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
