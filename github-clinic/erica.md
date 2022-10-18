@@ -32,6 +32,7 @@ Here is what I **want** for *Christmas*:
 1. Sleep
 2. good wine
 3. amazing food
+
 Here is where you can find great deals: [costco.com] (https://www.costco.com/)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
