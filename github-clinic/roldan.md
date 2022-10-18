@@ -36,7 +36,7 @@ We can make lists – *note that lists need a carriage return before list items!
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
 *Note that we've also made a indented quote block with the `>` symbol*
-> [redband parrotfish terminal phase](https://www.fishbase.se/photos/ThumbnailsSummary.php?ID=1158#) experimenting with adding a link
+> [redband parrotfish terminal phase](http://www.fishbase.se/tools/UploadPhoto/uploads/IMG_2959.jpg) experimenting with adding a link
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
 
