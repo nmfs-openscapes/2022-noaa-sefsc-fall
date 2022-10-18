@@ -40,6 +40,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ![](../horst-champions-trailhead.png)
 
 > ### Did I make a heading? 
+> 
+<img align="center" src="horst-champions-trailhead.png" width="450">  
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
