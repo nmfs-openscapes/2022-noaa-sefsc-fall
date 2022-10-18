@@ -43,4 +43,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
-##Testing if this bold works!
+## Testing if this bold works!
