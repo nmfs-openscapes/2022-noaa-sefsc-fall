@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make and edit to the text in this file. One idea is to fix this typo. Edit made. 
+Next, make and edit to the text in this file. One idea is to fix this typo. Edit made. Whoo hoo.
 
 Finally, we will commit these edits to GitHub. To do this, scroll down to the bottom of this webpage to where it says "Commit Changes". Committing changes has two steps: write a human-readable commit message, and press the green button to commit changes. 
 
@@ -45,3 +45,9 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 I am practicing using **Github**. How am I doing?
 
+**A practice list**
+
+1. *bananas*
+2. *apples*
+3. *oranges*
+4. *pears*
