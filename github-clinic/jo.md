@@ -42,3 +42,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+I am going to insert a link and an image.  [InPort cELB Program](https://www.fisheries.noaa.gov/inport/item/1933).
+And now the image.  ![cELB Schematic](https://media.fisheries.noaa.gov/dam-migration/galv_schematic2_celb.png)
